@@ -54,6 +54,10 @@ public class MainActivity extends AppCompatActivity {
                 lesson1.onActionPessed(view.getId());
                 text.setText(lesson1.getText());
 
+
+
+
+
             }
         };
 
